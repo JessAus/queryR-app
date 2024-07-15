@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 *.Rproj
-scripts/
+scripts/00_Keyring.R
+scripts/01_Create_Data.R
