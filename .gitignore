@@ -5,3 +5,5 @@
 *.Rproj
 scripts/00_Keyring.R
 scripts/01_Create_Data.R
+.DS_Store
+docs/
